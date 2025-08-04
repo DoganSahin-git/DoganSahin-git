@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my  GitHub page 👋
 
 <!--
 **DoganSahin-git/DoganSahin-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, my name is Doğan Şahin.
+
+I develop data analysis applications which are helpful in quantitative analysis for various business subjects. I have graduated with a Master's Degree in Business Administration at Bülent Ecevit University with a specialisation in Marketing. I have a solid Economics education, having achieved a Bachelor's Degree from Marmara University. I have experience in software development, aviation and accounting. My current focus is development and testing of data centric applications with visualisation. I use python and related database and framework technologies to test various visualisation apparatus to test business statistical models. If you have any feedback or ideas for new projects, feel free to contact me!
+
+Check out my [project tracking page](https://dogansahin-git.github.io/project-tracking-page)), [Resume](https://dogansahin-git.github.io/project-tracking-page/doc/resume.pdf) to learn more about me and my projects.
+
