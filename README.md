@@ -1,4 +1,4 @@
-## Welcome to my  GitHub page 👋
+## Welcome to my  GitHub page
 
 <!--
 **DoganSahin-git/DoganSahin-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ I develop data analysis applications which are helpful in quantitative analysis 
 
 Check out my [project tracking page](https://dogansahin-git.github.io/project-tracking-page) and [Resume](https://dogansahin-git.github.io/project-tracking-page/doc/resume.pdf) to learn more about me and my projects.
 
-## 📨 Social & Contact
+## Social & Contact
 
 <div align="left">
   <a href="mailto:dogansahinemail@gmail.com" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
