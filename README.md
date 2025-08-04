@@ -19,5 +19,15 @@ Hi there, my name is Doğan Şahin.
 
 I develop data analysis applications which are helpful in quantitative analysis for various business subjects. I have graduated with a Master's Degree in Business Administration at Bülent Ecevit University with a specialisation in Marketing. I have a solid Economics education, having achieved a Bachelor's Degree from Marmara University. I have experience in software development, aviation and accounting. My current focus is development and testing of data centric applications with visualisation. I use python and related database and framework technologies to test various visualisation apparatus to test business statistical models. If you have any feedback or ideas for new projects, feel free to contact me!
 
-Check out my [project tracking page](https://dogansahin-git.github.io/project-tracking-page), [Resume](https://dogansahin-git.github.io/project-tracking-page/doc/resume.pdf) to learn more about me and my projects.
+Check out my [project tracking page](https://dogansahin-git.github.io/project-tracking-page) and [Resume](https://dogansahin-git.github.io/project-tracking-page/doc/resume.pdf) to learn more about me and my projects.
 
+## 📨 Social & Contact
+
+<div align="left">
+  <a href="mailto:dogansahinemail@gmail.com" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://dogansahin-git.github.io/project-tracking-page" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's Project Tracking Page" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/dogan-sahin" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+</div>
