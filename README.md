@@ -26,7 +26,7 @@ Check out my [project tracking page](https://dogansahin-git.github.io) and [Resu
 <div align="left">
   <a href="mailto:dogansahinemail@gmail.com" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://dogansahin-git.github.io/project-tracking-page" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's Project Tracking Page" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  <a href="https://dogansahin-git.github.io" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's Project Tracking Page" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
   <a href="https://linkedin.com/in/dogan-sahin" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
