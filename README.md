@@ -31,3 +31,11 @@ Check out my [project tracking page](https://dogansahin-git.github.io/project-tr
   <a href="https://linkedin.com/in/dogan-sahin" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
 </div>
+
+## GitHub Stats
+
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoganSahin-git&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" /> </a>
+</div>
+
+
