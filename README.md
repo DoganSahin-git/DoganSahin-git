@@ -32,10 +32,10 @@ Check out my [project tracking page](https://dogansahin-git.github.io/project-tr
   &nbsp;
 </div>
 
-## GitHub Stats
+## on GitHub
 
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoganSahin-git&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" /> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoganSahin-git&hide_progress=true" alt="Top Languages" /> </a>
 </div>
 
 
