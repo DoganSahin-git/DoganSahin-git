@@ -47,7 +47,8 @@ Check out my [project tracking page](https://dogansahin-git.github.io) and [Resu
 ## on GitHub
 
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoganSahin-git&hide_progress=true" alt="Top Languages" /> </a>
+  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=DoganSahin-git)](https://github.com/stats-organization/github-stats-extended)
+  
 </div>
 
 
