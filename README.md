@@ -46,7 +46,7 @@ Check out my [project tracking page](https://dogansahin-git.github.io) and [Resu
 
 ## on GitHub
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=DoganSahin-git)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoganSahin-git)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
