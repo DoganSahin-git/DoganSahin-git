@@ -46,9 +46,7 @@ Check out my [project tracking page](https://dogansahin-git.github.io) and [Resu
 
 ## on GitHub
 
-<div align="left">
-  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=DoganSahin-git)](https://github.com/stats-organization/github-stats-extended)
-  
-</div>
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=DoganSahin-git)](https://github.com/stats-organization/github-stats-extended)
+
 
 
