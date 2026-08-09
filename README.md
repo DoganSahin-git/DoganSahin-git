@@ -1,21 +1,6 @@
 ## Welcome to my  GitHub page
 
-<!--
-**DoganSahin-git/DoganSahin-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hi there, my name is Doğan Şahin.
+Hi there, my name is Doğan Şahin. (Doaan Shaahin)
 
 I am a data-focused application developer with an academic background in Economics and Business Administration. I have professional experience in software development, aviation, and accounting, and currently focus on developing and testing data-centric applications with advanced visualisation capabilities. I work with multiple programming languages, databases, and frameworks to explore data visualisation techniques and business-oriented statistical models for quantitative analysis and decision-making. If you have any feedback or ideas for new projects, feel free to contact me!
 
@@ -37,8 +22,6 @@ Please check out my [repositories](https://github.com/DoganSahin-git?tab=reposit
 
 <div align="left">
   <a href="mailto:dogansahinemail@gmail.com" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-  &nbsp;
-  <a href="https://dogansahin-git.github.io" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's Project Tracking Page" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
   <a href="https://linkedin.com/in/dogan-sahin" target="_blank" rel="noreferrer"> <img alt="Doğan Şahin's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
