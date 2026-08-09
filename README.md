@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi there, my name is Doğan Şahin.
 
-I develop data analysis applications which are helpful in quantitative analysis for various business subjects. I have graduated with a Master's Degree in Business Administration at Bülent Ecevit University with a specialisation in Marketing. Before that, I have a solid Economics education in English language, having achieved a Bachelor's Degree from Marmara University. I have experience in software development, aviation and accounting. My current focus is development and testing of data centric applications with visualisation. I use Python and related database and framework technologies to test various visualisation apparatus along with business statistical models. If you have any feedback or ideas for new projects, feel free to contact me!
+I am a data-focused application developer with an academic background in Economics and Business Administration. I have professional experience in software development, aviation, and accounting, and currently focus on developing and testing data-centric applications with advanced visualisation capabilities. I work with multiple programming languages, databases, and frameworks to explore data visualisation techniques and business-oriented statistical models for quantitative analysis and decision-making. If you have any feedback or ideas for new projects, feel free to contact me!
 
 I am currently working on building and testing technology on the following stacks;
 
@@ -31,7 +31,7 @@ Machine Learning : [Numpy, Pandas/Polars, Matplotlib/Seaborn, Scikit-learn]
 
 Agentic AI : [Claude Agent SDK]
 
-Check out my [project tracking page](https://dogansahin-git.github.io) and [Resume](https://dogansahin-git.github.io/doc/resume.pdf) to learn more about my projects and me.
+Please check out my [repositories](https://github.com/DoganSahin-git?tab=repositories), [project tracking page](https://dogansahin-git.github.io) and [Resume](https://dogansahin-git.github.io/doc/resume.pdf) to learn more about my projects and me.
 
 ## Social & Contact
 
