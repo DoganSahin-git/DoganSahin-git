@@ -14,7 +14,7 @@ Full-Stack Development : [Linux Debian, Python Django, Django Ninja API, SQLite/
 
 Machine Learning : [Numpy, Pandas/Polars, Matplotlib/Seaborn, Scikit-learn]
 
-Agentic AI : [Claude Agent SDK]
+Agentic AI : [Gemini API]
 
 Please check out my [repositories](https://github.com/DoganSahin-git?tab=repositories), [project tracking page](https://dogansahin-git.github.io) and [Resume](https://dogansahin-git.github.io/doc/resume.pdf) to learn more about my projects and me.
 
